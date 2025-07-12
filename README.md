@@ -1,1 +1,1 @@
-## Simple Counter App
+## Simple JS Counter App
